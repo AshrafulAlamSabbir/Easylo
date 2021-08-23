@@ -1,0 +1,311 @@
+/* 
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+.navbar {
+    margin-right: -92px;
+    margin-left: -30px;
+}
+
+
+.loan-part-left h2 {
+font-size: 31px;
+margin-left: -24px;
+margin-top: -80px;
+}
+
+.loan-part-line {
+    margin-left: -22px;
+}
+.loan-part-left p {
+
+    font-size: 14px;
+    
+    margin-left: -21px;
+}
+.l-btn {
+margin-left: -20px;
+}
+.form-box {
+    width: 336px;
+    margin-top: 56px;
+    margin-left: 0px;
+}
+.btn-secondary {
+width: 280px !important;
+}
+
+.f-footer input {
+width: 286px !important;
+}
+.f-box-line {
+  margin-left: 104px;
+}
+.b-heading h2 {
+    font-size: 24px;
+    }
+
+header {
+ 
+    height: 1106px;
+  }
+
+
+.banner-line {
+    margin-left: 116px;
+}
+
+  .b-heading p {
+    margin-left: 11px;
+}
+.banner-left {
+    margin-left: 16px;
+}
+
+.banner-mid {
+    margin-left: 16px;
+
+}
+.banner-right {
+    margin-left: 16px;
+
+}
+
+.service-box {
+    width: 205px;
+    height: 148px;
+    margin-left: 131px;
+    margin-top: -105px;
+}
+
+.service-box h2 {
+    padding-top: 16px;
+}
+.service {
+    padding: 48px 0px;
+   /* margin-left: 28px;*/
+}
+
+.service-right h2 {
+    font-size: 24px;
+        margin-top: 36px;
+        margin-left: -185px;
+        margin-right: 0px; 
+     margin-bottom: 0px;
+
+}
+.service-right p {
+    margin-right: 0px;
+    margin-left: -185px;
+    margin-top: 26px;
+}
+
+.service-system-btn {
+    width: 194px;
+    margin-left: -180px;
+}
+
+.select-heading h2 {
+    font-size: 24px;
+
+}
+.select-heading p {
+    margin-bottom: 20px;
+    margin-right: 7px;
+    margin-left: 3px;
+}
+.select-line {
+    margin-left: 116px;
+}
+.s-image1 img {
+    margin-left: 100px;
+}
+.s-image2 img {
+    margin-left: 100px;
+}
+.s-image3 img {
+    margin-left: 100px;
+}
+.s-image4 img {
+    margin-left: 100px;
+}
+.loan-left h2 {
+    font-size: 24px;
+    margin-bottom: 22px;
+  
+} 
+
+.profile-part p {
+ font-size: 10px;
+  margin-left: -168px;
+}
+.pro-name h2 {
+    font-size: 18px;
+        margin-top: -74px;
+   margin-left: -23px;
+  }
+
+.pro-image {
+    margin-left: -127px;
+    margin-right: 48px;
+}
+
+.pro-name p {
+    margin-left: -23px;
+  }
+    
+
+
+    .item {
+    /*margin-left: 0px;*/
+}
+.row>* {
+    
+    width: auto !important;
+    }
+
+.testimonial-heading h2{
+  font-size: 24px;
+
+}
+.testimonial-line {
+margin-left: 116px;
+    margin-right: 104px;
+}
+.testimonial-left h2 {
+    font-size: 22px;
+  }
+
+.testimonial-mid h2 {
+  font-size: 22px;
+  }
+  .testimonial-right h2 {
+ font-size: 22px;
+  }
+  .testimonial-right p {
+
+    margin-bottom: -50px;
+  }
+  .footer-mid {
+    margin-right: 118px;
+    margin-bottom: 24px;
+}
+.footer-mid li {
+    margin-bottom: 10px;
+}
+.footer-right li {
+    margin-bottom: 12px;
+}
+.main-mail h6 {
+    margin-top: 20px;
+}
+.l-service-system p {
+    margin-left: 0px;
+  }
+
+.l-service-system2 p {
+  margin-left: 0px;
+  }
+
+.l-service-system3 p {
+ margin-left: 0px;
+  }
+
+
+.btn-r{
+  margin-left: 0px;
+  margin-bottom: 50px;
+}
+.l-service-system-ptag {
+    margin-top: -23px;
+    margin-left: 10px;
+}
+
+.l-service-system-img {
+    margin-left: -184px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
